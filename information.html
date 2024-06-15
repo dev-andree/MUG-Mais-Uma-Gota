@@ -4,25 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/information/information_style.css">
+    <link rel="stylesheet" href="information/information_style.css">
 </head>
 <body>
     <header>
         <img src="/images/logo.jpeg" alt="" id="logo">
+        <img src="images/botao-home.png" alt="" id="casa">
+        <img src="images/lamp-ideia.png" alt="" id="ideia">
+        <img src="images/informacao.png" alt="" id="informacao">
     </header>
 
     <div class="container">
         <p id="information">Informações</p>
 
-        <div id="copo-agua">
-            <img src="/images/agua.jpg" alt="" id="agua">
-            <p id="agua">2,5% de água doce, a maior parte (69%) é de difícil acesso, pois está concentrada nas geleiras.</p>
-        </div>
+        <div class="images-container">
+            <div class="image-text">
+                <img src="/images/agua.jpg" alt="" class="image">
+                <p class="text"> 2,5% de água doce, a maior parte (69%) é de difícil acesso, pois está concentrada nas geleiras. A água é um recurso essencial para a vida e seu uso consciente é fundamental para garantir sua disponibilidade para as futuras gerações. Programas de conservação da água e tecnologias de purificação estão sendo desenvolvidos para ajudar a lidar com a escassez de água em várias partes do mundo.</p>
+            </div>
 
-        <nav id="rio-agua">
-            <img src="/images/rio.jpg" alt="" id="rio">
-            <p id="rio">Mais de 1,5 milhões de residências no país ainda não possuem banheiros e, sequer, sanitários.</p>
-        </nav>
+            <div class="image-text">
+                <img src="/images/rio.jpg" alt="" class="image">
+                <p class="text"> Mais de 1,5 milhões de residências no país ainda não possuem banheiros e, sequer, sanitários. Esta falta de infraestrutura básica afeta diretamente a saúde pública e a dignidade das pessoas. Iniciativas de saneamento básico são cruciais para melhorar as condições de vida e prevenir doenças. Investimentos em infraestrutura e educação sobre higiene são passos importantes para resolver esse problema.</p>
+            </div>
+        </div>
     </div>
 
     <script src="information/information_script.js"></script>
