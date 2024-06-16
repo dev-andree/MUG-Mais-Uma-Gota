@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="./images/logo.jpeg" alt="" id="logo">
+        <img src="./images/botao-home.png" alt="" id="casa">
+        <img src="./images/lamp-ideia.png" alt="" id="ideia">
+        <img src="./images/informacao.png" alt="" id="informacao">
+    </header>
+
+    <div class="container">
+        <p id="text">Quiz !</p>
+        <p id="text-1">Vamos descobrir o seu perfil e quanto deve consumir para o seu gasto mensal ?</p>
+
+        <img src="images/torneira_1.png" alt="" id="torneira">
+    </div>
+
+    <div class="form">
+        <label for="number">Quantos minutos, em média, você passa no banho diariamente?<br></label>
+        <input type="number" id="banho">
+        <label for="number"><br>Quantas vezes por semana você lava roupas em casa?<br></label>
+        <input type="number" id="roupa">
+        <label for="number"><br>Quantas vezes por semana você limpa a casa com água?<br></label>
+        <input type="number" id="casaagua">
+        <label for="number"><br>Quantas vezes por semana você lava louça?<br></label>
+        <input type="number" id="louca"><br>
+        <button id="enviar">ENVIAR</button>
+    </div>
+
+    <div>
+        <p id="resposta"></p>
+        <p id="total"></p>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
