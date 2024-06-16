@@ -25,4 +25,6 @@ Diagrma de Classe (rascunho):
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/8516074d-18a8-4cd4-94a0-4c7a6cd1d788)
 
 
+Rascunho para a criação de um Diagrama de Sequência:
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/0a068c9c-fc18-4a95-9cd0-2afa288ad693)
 
