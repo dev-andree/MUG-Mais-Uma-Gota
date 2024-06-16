@@ -21,5 +21,8 @@ Rascunho para a criação do Diagrama de Classe:
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/9ab81c4a-1a8b-4259-b972-961c0d4f9f39)
 
 
+Diagrma de Classe (rascunho):
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/8516074d-18a8-4cd4-94a0-4c7a6cd1d788)
+
 
 
