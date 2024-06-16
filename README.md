@@ -1,18 +1,17 @@
-# MUG-Mais-Uma-Gota-AEP
+# MUG: Mais Uma Gota (AEP)
 
-Rascunho que contém as entidades e seus atributos, para a criação do diagrama de banco de dados.
-
-Segue abaixo o rascunho: 
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/73fef03f-3065-4b7d-a018-a8b7b5350e15)
+## Diagramas:
+Segue abaixo o
 
 
-Diagram de Banco  de Dados Relacional:
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/69549aa6-c058-4c07-8723-c7eecc46f21a)
+Diagrama de Banco de Dados Relacional (versão final):
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/6f77e1f1-c110-4cb1-aeac-cf87f536d622)
 
 
+Diagrama de Use Case:
 
-Diagrama de Banco de Dados (versão final):
-https://drive.google.com/file/d/1YJjYo8UAy8Omkhiu8EY1y-Phw0-TBLAV/view?usp=sharing
+Rascunho para a criação do Diagrama de Use Case
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/10a75a45-3525-4b8e-869c-b1a65a89fdd5)
 
 
 
