@@ -1,35 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="information/information_style.css">
+    <title>INFORMATION | MUG</title>
+    <link rel="stylesheet" href="./assets/css/information_style.css">
 </head>
 <body>
     <header>
-        <img src="/images/logo.jpeg" alt="" id="logo">
-        <img src="images/botao-home.png" alt="" id="casa">
-        <img src="images/lamp-ideia.png" alt="" id="ideia">
-        <img src="images/informacao.png" alt="" id="informacao">
+        <img src="./assets/img/logo.jpeg" alt="" id="logo">
+        <a href="./index.html"><img src="./assets/img/botao-home.png" alt="" id="casa"></a>
+        <a href="./quiz.html"><img src="./assets/img/lamp-ideia.png" alt="" id="ideia"></a>
+        <a href="./information.html"><img src="./assets/img/informacao.png" alt="" id="informacao"></a>
     </header>
 
     <div class="container">
-        <p id="information">Informações</p>
+        <h1 id="information">INFORMAÇÕES</h1>
+        
+        
 
         <div class="images-container">
             <div class="image-text">
-                <img src="/images/agua.jpg" alt="" class="image">
-                <p class="text"> 2,5% de água doce, a maior parte (69%) é de difícil acesso, pois está concentrada nas geleiras. A água é um recurso essencial para a vida e seu uso consciente é fundamental para garantir sua disponibilidade para as futuras gerações. Programas de conservação da água e tecnologias de purificação estão sendo desenvolvidos para ajudar a lidar com a escassez de água em várias partes do mundo.</p>
+                <img src="./assets/img/agua.jpg" alt="" class="image">
+                <h2 id="ConsCons">Consumo consciente</h2>
+                <p class="text">O consumo consciente de água é a prática de usar a água racionalmente, sem desperdiçar ou
+                    contaminar esse recurso vital. Isso implica em mudar os nossos hábitos de consumo da água
+                    para assegurar a sua sustentabilidade para as gerações futuras.
+                </p>
+                <p class="text"><b>Medidas de consumo de água consciente:</b><br><br>
+                <b>1 - </b>Fechar a torneira ao escovar os dentes ou fazer a barba<br><br>
+                <b>2 - </b>Tomar banhos rápidos e com o chuveiro regulado<br><br>
+                <b>3 - </b>Usar a máquina de lavar roupas somente quando cheia<br><br>
+                <b>4 - </b>Reaproveitar a água da chuva ou da máquina de lavar roupas</p>
             </div>
 
             <div class="image-text">
-                <img src="/images/rio.jpg" alt="" class="image">
-                <p class="text"> Mais de 1,5 milhões de residências no país ainda não possuem banheiros e, sequer, sanitários. Esta falta de infraestrutura básica afeta diretamente a saúde pública e a dignidade das pessoas. Iniciativas de saneamento básico são cruciais para melhorar as condições de vida e prevenir doenças. Investimentos em infraestrutura e educação sobre higiene são passos importantes para resolver esse problema.</p>
+                
+                <img src="./assets/img/rio.jpg" alt="" class="image">
+                <h2 id="SanBas">Saneamento básico</h2>
+                <p class="text">Apesar de uma pequena melhora nos últimos anos, a cobertura do
+                    saneamento básico no Brasil ainda é muito precária, o que demanda mais
+                    esforços dos setores público e privado visando suprir o déficit<br><br>
+
+                    Pelo menos metade da população sofre com problemas de saneamento básico.
+                    Dados oficiais indicam que 40 milhões de famílias não têm sequer um
+                    banheiro dentro de casa. E dados do Sistema Nacional de Informações sobre
+                    Saneamento indicam mais de 100 milhões de brasileiros sem acesso à coleta de
+                    esgoto e 35 milhões sem água tratada</p>
+
+                    <video width="100%" height="130" controls id="video1">
+                        <source src="./assets/video/O QUE É SANEAMENTO BÁSICO_.mp4" type="video/mp4">
+                    </video>
             </div>
         </div>
     </div>
 
-    <script src="information/information_script.js"></script>
+    <script src="./assets/js/information_script.js"></script>
 </body>
 </html>
