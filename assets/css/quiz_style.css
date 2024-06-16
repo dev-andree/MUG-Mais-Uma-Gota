@@ -2,7 +2,7 @@ body {
     background-color: rgb(165, 165, 165);
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -14,29 +14,29 @@ header {
     padding: 0;
 }
 
-#logo {
-    width: 10vw;
-}
-
 #casa {
-    width: 3vw;
+    width: 4vw;
     position: relative;
-    left: 600px;
-    bottom: 20pt;
-}
-
-#informacao {
-    width: 3vw;
-    position: relative;
-    left: 700px;
-    bottom: 20pt;
+    left: 500px;
+    bottom: 40pt;
 }
 
 #ideia {
-    width: 3.5vw;
+    width: 4.5vw;
     position: relative;
-    left: 640px;
-    bottom: 20pt;   
+    left: 550px;
+    bottom: 40pt;   
+}
+
+#informacao {
+    width: 4vw;
+    position: relative;
+    left: 600px;
+    bottom: 40pt;
+}
+
+#logo {
+    width: 20vw;
 }
 
 #torneira {
@@ -46,46 +46,41 @@ header {
     bottom: 125pt;
 }
 
-.form {
-    position: relative;
-    left: 600px;
-    border: 3px solid #4e4e4e;
-    padding: 15px;
-    width: 500px;
-    top: 20px;
-}
-
 #enviar {
-    border-radius: 75px;
     position: relative;
     color: black;
     background-color: #f1efef;
     left: 52px;
     margin-top: 7px;
+    padding: 10px;
+}
+
+#enviar:hover{
+    background-color: rgb(0, 186, 186);  
 }
 
 #banho {
-    border-radius: 35px;
     position: relative;
     margin-top: 7px;
+    padding: 5px;
 }
 
 #roupa {
-    border-radius: 35px;
     position: relative;
     margin-top: 7px;
+    padding: 5px;
 }
 
 #casaagua {
-    border-radius: 35px;
     position: relative;
     margin-top: 7px;
+    padding: 5px;
 }
 
 #louca {
-    border-radius: 35px;
     position: relative;
     margin-top: 7px;
+    padding: 5px;
 }
 
 .container {
@@ -95,19 +90,42 @@ header {
 }
 
 #text {
-    font-size: 40pt;
     text-decoration: underline;
     color: rgb(248, 247, 247);
 }
 
 #text-1 {
     font-size: 20pt;
+    color: white;
 }
 
-#resposta, #total {
-    border: 1px solid;
-    /* border-radius: 25px; */
+#perguntas{
     position: relative;
-    left: 600px;
-    width: 530px;
+    left: 73px;
+    background-color: rgba(90, 88, 87, 0.226);
+    border-radius: 15px;
+    padding: 15px;
+    width: 50%;
+}
+
+#respostas{
+    position: relative;
+    left: 73px;
+    background-color: rgba(90, 88, 87, 0.226);
+    border-radius: 15px;
+    padding: 15px;
+    width: 50%;
+    top: 30px;
+    font-size: 15pt;
+}
+
+#sugestao{
+    position: relative;
+    left: 73px;
+    background-color: rgba(90, 88, 87, 0.226);
+    border-radius: 15px;
+    padding: 15px;
+    width: 50%;
+    top: 40px;
+    font-size: 15pt;
 }
