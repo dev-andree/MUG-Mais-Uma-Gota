@@ -12,29 +12,29 @@ header {
     padding: 0; 
 }
 
-#logo {
-    width: 10vw;
-}
-
 #casa {
-    width: 3vw;
+    width: 4vw;
     position: relative;
-    left: 1200px;
-    bottom: 20pt;
-}
-
-#informacao {
-    width: 3vw;
-    position: relative;
-    left: 1300px;
-    bottom: 20pt;
+    left: 500px;
+    bottom: 40pt;
 }
 
 #ideia {
-    width: 3.5vw;
+    width: 4.5vw;
     position: relative;
-    left: 1250px;
-    bottom: 20pt;   
+    left: 550px;
+    bottom: 40pt;   
+}
+
+#informacao {
+    width: 4vw;
+    position: relative;
+    left: 600px;
+    bottom: 40pt;
+}
+
+#logo {
+    width: 20vw;
 }
 
 .container {
@@ -47,6 +47,14 @@ header {
     text-align: center;
     text-decoration: underline;
     font-size: 35px;
+}
+
+#ConsCons{
+    color: white;
+}
+
+#SanBas{
+    color: white;
 }
 
 .images-container {
@@ -73,4 +81,8 @@ header {
     background-color: rgba(90, 88, 87, 0.226);
     padding: 15px;
     border-radius: 15px;
+}
+
+#video1{
+    border-radius: 10px;
 }
