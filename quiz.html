@@ -1,43 +1,45 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="quiz.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/quiz_style.css">
+    <title>QUIZZ | MUG</title>
 </head>
 <body>
     <header>
-        <img src="./images/logo.jpeg" alt="" id="logo">
-        <img src="./images/botao-home.png" alt="" id="casa">
-        <img src="./images/lamp-ideia.png" alt="" id="ideia">
-        <img src="./images/informacao.png" alt="" id="informacao">
+        <img src="./assets/img/logo.jpeg" alt="" id="logo">
+        <a href="./index.html"><img src="./assets/img/botao-home.png" alt="" id="casa"></a>
+        <a href="./quiz.html"><img src="./assets/img/lamp-ideia.png" alt="" id="ideia"></a>
+        <a href="./information.html"><img src="./assets/img/informacao.png" alt="" id="informacao"></a>
     </header>
 
     <div class="container">
-        <p id="text">Quiz !</p>
-        <p id="text-1">Vamos descobrir o seu perfil e quanto deve consumir para o seu gasto mensal ?</p>
-
-        <img src="images/torneira_1.png" alt="" id="torneira">
+        <h1 id="text">QUIZZ!</h1>
+        <p id="text-1">DESCUBRA <b>AGORA</b> SEU PERFIL DE CONSUMO DE ÁGUA!</p>
     </div>
 
-    <div class="form">
-        <label for="number">Quantos minutos, em média, você passa no banho diariamente?<br></label>
+    <div id="perguntas">
+        <label for="number" style="font-size: 15pt;">Quantos minutos, em média, você passa no banho diariamente?<br></label>
         <input type="number" id="banho">
-        <label for="number"><br>Quantas vezes por semana você lava roupas em casa?<br></label>
+        <label for="number" style="font-size: 15pt;"><br>Quantas vezes por semana você lava roupas em casa?<br></label>
         <input type="number" id="roupa">
-        <label for="number"><br>Quantas vezes por semana você limpa a casa com água?<br></label>
+        <label for="number" style="font-size: 15pt;"><br>Quantas vezes por semana você limpa a casa com água?<br></label>
         <input type="number" id="casaagua">
-        <label for="number"><br>Quantas vezes por semana você lava louça?<br></label>
+        <label for="number" style="font-size: 15pt;"><br>Quantas vezes por semana você lava louça?<br></label>
         <input type="number" id="louca"><br>
         <button id="enviar">ENVIAR</button>
     </div>
 
-    <div>
-        <p id="resposta"></p>
-        <p id="total"></p>
+    <div id="respostas">
+    <p id="resposta"></p>
+    <p id="consumo"></p>
     </div>
 
-    <script src="quiz.js"></script>
+    <div>
+        <p id="sugestao"></p>
+    </div>
+
+    <script src="./assets/js/quiz_script.js"></script>
 </body>
 </html>
