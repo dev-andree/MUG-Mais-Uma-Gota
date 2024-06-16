@@ -14,31 +14,32 @@ header {
 }
 
 #casa {
-    width: 3vw;
+    width: 4vw;
     position: relative;
-    left: 600px;
-    bottom: 20pt;
-}
-
-#informacao {
-    width: 3vw;
-    position: relative;
-    left: 700px;
-    bottom: 20pt;
+    left: 500px;
+    bottom: 40pt;
 }
 
 #ideia {
-    width: 3.5vw;
+    width: 4.5vw;
     position: relative;
-    left: 640px;
-    bottom: 20pt;   
+    left: 550px;
+    bottom: 40pt;   
+}
+
+#informacao {
+    width: 4vw;
+    position: relative;
+    left: 600px;
+    bottom: 40pt;
 }
 
 #logo {
-    width: 10vw;
+    width: 20vw;
 }
 
 #title {
+    color: rgb(0, 0, 0);
     font-size: 5vw;
     position: relative;
     left: 7vw;
@@ -46,6 +47,7 @@ header {
 }
 
 #paragraph {
+    color: rgb(0, 0, 0);
     font-size: 1.5vw;
     position: relative;
     left: 7vw;
@@ -74,7 +76,7 @@ header {
 }
 
 #info:hover{
-background-color: rgb(70, 142, 142);   
+background-color: rgb(0, 186, 186);   
 }
 
 #quiz{
@@ -91,7 +93,12 @@ background-color: rgb(70, 142, 142);
 }
 
 #quiz:hover{
-    background-color: rgb(70, 142, 142); 
+    background-color: rgb(0, 186, 186);  
+}
+
+#botao{
+    position: relative;
+    bottom: 25px;
 }
 
 
