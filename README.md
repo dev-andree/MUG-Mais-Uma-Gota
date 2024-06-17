@@ -33,4 +33,14 @@ O Diagrama de Sequência, serve para mostrara a intereção do usuário com a p�
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/0efa3cb1-89e4-4777-b002-5d6d23a62a5b)
 
 
-# Manual de como usar a MUG:
+# Manual da MUG:
+
+## Quais são as funcionalidade MUG?
+- Quizz para verificar o consumo de água, onde ele lhe dará dicas de como diminuir o gasto, entre outras informações;
+- Verificar informações sobre água potável e saneamento;
+- Vídeo informativo.
+
+  ## Como utilizar a MUG?
+  - Acesse a página HOME, nela você conseguirá verificar o objetivo de nosso site;
+  - Ao acessar o campo Informações, você poderá desfrutar de informações referentes a água potável e saneamento básico;
+  - Clicando no campo QUIZZ, você irá realizar o questionário colocando a escala dos seus hábitos.
