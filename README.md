@@ -44,3 +44,9 @@ O Diagrama de Sequência, serve para mostrara a intereção do usuário com a p�
   - Acesse a página HOME, nela você conseguirá verificar o objetivo de nosso site;
   - Ao acessar o campo Informações, você poderá desfrutar de informações referentes a água potável e saneamento básico;
   - Clicando no campo QUIZZ, você irá realizar o questionário colocando a escala dos seus hábitos.
+ 
+# Link GitHub Pages:
+https://dev-andree.github.io/MUG-Mais-Uma-Gota-AEP/
+
+# Link do nosso vídeo do Youtube:
+
