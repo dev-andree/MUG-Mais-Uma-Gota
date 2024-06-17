@@ -21,7 +21,7 @@ O Use Case desenvolvido, tem como objetivo demosntrar a intereção entre o usu�
 
 ## Diagrama de Classe:
 
-O Diagrama de Classe, foi necessário para que nosso grupo identificasse as entidades e suas principais caracteristicas dentro da nossa página na WEB
+O Diagrama de Classe, foi necessário para que nosso grupo identificasse as entidades e suas principais caracteristicas dentro da nossa página na WEB.
 
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/ddd58f4a-36c0-48f8-a766-97c88b29aa22)
 
