@@ -1,14 +1,16 @@
 # MUG: Mais Uma Gota (AEP)
 
 ## Diagramas:
-Segue abaixo o
 
 
-Diagrama de Banco de Dados Relacional (versão final):
+##Diagrama de Banco de Dados Relacional (versão final):
+Em nosso projeto optamos por desenvolver a modelagem do Banco de Dados do tipo Relacional, devido a complexidade do sistema criado.
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/6f77e1f1-c110-4cb1-aeac-cf87f536d622)
 
 
-Diagrama de Use Case:
+##Diagrama de Use Case:
+
+O Use Case desenvolvido, tem como objetivo demosntrar a intereção entre o usuário e o administrador do site com o sistema.
 
 Rascunho para a criação do Diagrama de Use Case
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/10a75a45-3525-4b8e-869c-b1a65a89fdd5)
@@ -17,6 +19,9 @@ Rascunho para a criação do Diagrama de Use Case
 Diagrama de Use Case (rascunho):
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/bb9729e1-9a3a-4751-a9ce-1b8b1ec4eff5)
 
+
+##Diagrama de Classe:
+O Diagrama de Classe, foi necessário para que nosso grupo identificasse as entidades e suas principais caracteristicas dentro da nossa página na WEB
 Rascunho para a criação do Diagrama de Classe:
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/9ab81c4a-1a8b-4259-b972-961c0d4f9f39)
 
@@ -24,7 +29,8 @@ Rascunho para a criação do Diagrama de Classe:
 Diagrma de Classe (rascunho):
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/8516074d-18a8-4cd4-94a0-4c7a6cd1d788)
 
-
+##Diagrama de Sequência:
+O Diagrama de Sequência, serve para mostrara a intereção do usuário com a página WEB e também a interação dos elementos com o sistema para fornecer aa informações para o usuário.
 Rascunho para a criação de um Diagrama de Sequência (Quizz):
 ![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/0a068c9c-fc18-4a95-9cd0-2afa288ad693)
 
