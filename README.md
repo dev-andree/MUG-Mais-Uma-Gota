@@ -3,39 +3,34 @@
 ## Diagramas:
 
 
-##Diagrama de Banco de Dados Relacional (versão final):
+## Diagrama de Banco de Dados Relacional (versão final):
+
 Em nosso projeto optamos por desenvolver a modelagem do Banco de Dados do tipo Relacional, devido a complexidade do sistema criado.
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/6f77e1f1-c110-4cb1-aeac-cf87f536d622)
+
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/7cd5e69c-5e49-49c8-b83a-28ab0d990648)
 
 
-##Diagrama de Use Case:
+
+## Diagrama de Use Case:
 
 O Use Case desenvolvido, tem como objetivo demosntrar a intereção entre o usuário e o administrador do site com o sistema.
 
-Rascunho para a criação do Diagrama de Use Case
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/10a75a45-3525-4b8e-869c-b1a65a89fdd5)
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/aa83cdf2-f5da-4a01-b4e8-ef2d283bea1a)
 
 
-Diagrama de Use Case (rascunho):
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/bb9729e1-9a3a-4751-a9ce-1b8b1ec4eff5)
 
+## Diagrama de Classe:
 
-##Diagrama de Classe:
 O Diagrama de Classe, foi necessário para que nosso grupo identificasse as entidades e suas principais caracteristicas dentro da nossa página na WEB
-Rascunho para a criação do Diagrama de Classe:
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/9ab81c4a-1a8b-4259-b972-961c0d4f9f39)
+
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/ddd58f4a-36c0-48f8-a766-97c88b29aa22)
 
 
-Diagrma de Classe (rascunho):
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/8516074d-18a8-4cd4-94a0-4c7a6cd1d788)
+## Diagrama de Sequência:
 
-##Diagrama de Sequência:
 O Diagrama de Sequência, serve para mostrara a intereção do usuário com a página WEB e também a interação dos elementos com o sistema para fornecer aa informações para o usuário.
-Rascunho para a criação de um Diagrama de Sequência (Quizz):
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/0a068c9c-fc18-4a95-9cd0-2afa288ad693)
+
+![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/0efa3cb1-89e4-4777-b002-5d6d23a62a5b)
 
 
-Rascunho para criação de Diagrama de Sequência (Informações):
-![image](https://github.com/dev-andree/MUG-Mais-Uma-Gota-AEP/assets/136995061/74854f9a-8d01-4c49-b3b1-75f476920f74)
-
-
+# Manual de como usar a MUG:
