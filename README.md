@@ -49,7 +49,9 @@ O Diagrama de Sequência, serve para mostrara a intereção do usuário com a p�
 https://dev-andree.github.io/MUG-Mais-Uma-Gota-AEP/
 
 # Link do nosso vídeo do Youtube:
-https://youtu.be/Oac2JWFOBZQ
+[https://youtu.be/Oac2JWFOBZQ](https://youtu.be/XqcaAg18NzA)
+
+
 
 
 
